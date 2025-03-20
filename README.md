@@ -28,4 +28,5 @@ Welcome to the **Data Analysis Projects** repository, featuring three insightful
 ## Technologies Used  
 - **Power BI**: Dashboards and data visualizations.  
 - **Excel**: Data cleaning, preparation, and analysis.  
-
+- **SQL**: Data querying, aggregation, and database management.
+- **Python**: Advanced data analysis, scripting, and automation.
