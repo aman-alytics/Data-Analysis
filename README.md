@@ -29,10 +29,8 @@ Welcome to the **Data Analysis Projects** repository, featuring three insightful
 
 
 
-## How to Use  
-1. Explore the individual repositories linked above.  
-2. Open the respective Power BI (`*.pbix`) files for interactive visualizations.  
-3. Refer to the Excel files (`*.xlsx`) in each repo for data cleaning and preprocessing details.  
+## Explore the individual repositories linked above.   
+
 
 ## Technologies Used  
 - **Power BI**: Dashboards and data visualizations.  
