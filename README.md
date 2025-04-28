@@ -18,7 +18,16 @@ Welcome to the **Data Analysis Projects** repository, featuring three insightful
 ### 3. Awesome Chocolates  
 - **Focus**: Regional and team sales analysis with forecasts.  
 - **Features**: Individual salesperson contributions and growth planning.  
-- **Repository**: [Awesome Chocolate Data Analysis](https://github.com/aman-alytics/AwesomeChoclate-Data-Analysis)  
+- **Repository**: [Awesome Chocolate Data Analysis](https://github.com/aman-alytics/AwesomeChoclate-Data-Analysis)
+
+### 4. EIC Insurance Dashboard ✅ (New)
+- **Focus**: Insurance premium collections, claims behavior, and customer demographics.
+
+- **Features**: Interactive KPIs, buyer and claim analysis, premium vs. claim comparisons, and usage breakdown across years.
+
+- **Repository**:  [EIC Insurance Dashboard](https://github.com/aman-alytics/EIC_Insurance/tree/main)
+
+
 
 ## How to Use  
 1. Explore the individual repositories linked above.  
